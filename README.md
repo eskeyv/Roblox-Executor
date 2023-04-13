@@ -13,3 +13,4 @@
   4.) `Execute` button will takes in a string and executes the string as a Lua script.
   
  ### The applaction is auto-update.
+![image](https://user-images.githubusercontent.com/99591948/231766735-d94be106-55ac-498f-8d44-7a2d1e1c9a8a.png)
