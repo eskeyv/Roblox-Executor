@@ -4,27 +4,12 @@
 > See <a href="https://wearedevs.net/d/Exploit%20API">here<a> for more.
 
 ## Getting Started 
-  1.) Download 
+  1.) Download application <a href="https://github.com/Eskeyz/Roblox-Executor/releases/tag/v1.0">here<a>.
 
-  3.) After running this command, you can return to Visual Studio and turn on hidden files - include any new ones in your project and the models subdir of your project.
-
-For other options on installation see [Installing AutoRest](https://aka.ms/autorest/install) on the AutoRest github page.
-
----
-
-## Configuration 
-The following are the settings for generating this API with AutoRest.
-
-``` yaml 
-# specify the version of Autorest to use
-version: 2.0.4262 
-input-file: myApi.json
-
-csharp:
-  output-folder: ./
-  namespace: MyCorp.MyApi.Client
-  override-client-name: MyApiClientClassName
-  add-credentials: false 
-
-# (more settings here...)
-```
+  2.) Run the `.exe` file.
+  
+  3.) `Attach` button will check if it's patched, inject the necessary tools, etc.
+  
+  4.) `Execute` button will takes in a string and executes the string as a Lua script.
+  
+ ### The applaction is auto-update.
